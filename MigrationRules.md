@@ -18,3 +18,7 @@ Context snapshot:
 - YAML-based config orchestration
 - Rolling summary memory system (md + jsonl)
 - Do NOT refactor file paths unless explicitly asked
+
+We also want to update Architecture.md which is the file system, with notes of what things are/do
+
+Attach MigrationSummary.md and Architecture.md
